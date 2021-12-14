@@ -1,10 +1,11 @@
 import Header from "./components/Header"
-import Home from "./pages/Home"
+import Call from "./pages/Call"
+import Chat from "./pages/Chat"
 function App() {
 
   return (
     <div>
-      <Home />
+      <Call />
     </div>
   )
 }
